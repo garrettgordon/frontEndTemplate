@@ -1,0 +1,82 @@
+#promotion{
+	background-color: #FF6600;
+}
+.information{
+	padding:8px;
+}
+
+body{
+	background-color: #ECECEC;
+}
+a{
+	color:black;
+}
+p{
+	font-family:'trajan pro';
+}
+
+#firstNav{
+	background-color:#ECECEC;
+	margin:0; 
+}
+#secondNav{
+	background-color:white;
+	margin:0;
+	padding:8px;
+}
+.whiteStrip{
+	background-color: white;
+	padding: 8px;
+}
+
+#faceBookLike{
+	background-color: #ECECEC;
+}
+
+.extras{
+	padding:8px;
+}
+#likes{
+	color: #FF6600;
+}
+
+.rowHeight{
+	height:200px;
+}
+
+
+.bottomLinks{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.symbolButton{
+	padding:8px;
+	display:inline;
+}
+
+.greyBox{
+	background-color: #ECECEC; 
+}
+
+.learnMore{
+	background-color: black;
+	color: white;
+}
+
+#myCarousel{
+	height:350px;
+}
+
+.carouselDivs{
+	line-height: 350px
+}
+
+#flipped {
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
